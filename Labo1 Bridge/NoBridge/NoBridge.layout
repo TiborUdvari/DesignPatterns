@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="All" />
+	<File name="Circle.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="272" topLine="0" />
+	</File>
+	<File name="Circle.h" open="0" top="0" tabpos="14">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="CircleV1.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="23" topLine="0" />
+	</File>
+	<File name="CircleV1.h" open="0" top="0" tabpos="15">
+		<Cursor position="341" topLine="0" />
+	</File>
+	<File name="GeomGlut.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="1572" topLine="42" />
+	</File>
+	<File name="GeomGlut.h" open="0" top="0" tabpos="3">
+		<Cursor position="84" topLine="0" />
+	</File>
+	<File name="Rectangle.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Rectangle.h" open="0" top="0" tabpos="16">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="RectangleV1.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="26" topLine="0" />
+	</File>
+	<File name="RectangleV1.h" open="0" top="0" tabpos="17">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Shape.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Shape.h" open="0" top="0" tabpos="18">
+		<Cursor position="144" topLine="0" />
+	</File>
+	<File name="Square.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Square.h" open="0" top="0" tabpos="19">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="SquareV1.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="23" topLine="0" />
+	</File>
+	<File name="SquareV1.h" open="0" top="0" tabpos="20">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Triangle.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Triangle.h" open="0" top="0" tabpos="21">
+		<Cursor position="429" topLine="0" />
+	</File>
+	<File name="TriangleV1.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="217" topLine="0" />
+	</File>
+	<File name="TriangleV1.h" open="0" top="0" tabpos="22">
+		<Cursor position="381" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="21">
+		<Cursor position="1336" topLine="33" />
+	</File>
+	<File name="main.h" open="0" top="0" tabpos="4">
+		<Cursor position="91" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

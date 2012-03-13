@@ -1,0 +1,256 @@
+# depslib dependency file v1.0
+1329340140 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\evenements.cpp
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+	"geometrie.h"
+	"evenements.h"
+	"global.h"
+	"points.h"
+	"axes.h"
+
+1329385990 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\geometrie.h
+
+1329340243 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\evenements.h
+
+1329381682 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\global.h
+
+1329386085 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\geometrie.cpp
+	<math.h>
+	"geometrie.h"
+	"GeomGlut.h"
+
+1329340122 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\axes.h
+
+1329381523 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\points.h
+
+1036052458 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\lines.h
+
+1036052976 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\line_strip.h
+
+1036053190 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\line_loop.h
+
+1036054188 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\polygone.h
+
+1036055434 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\quads.h
+
+1036057576 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\quad_strip.h
+
+1036057810 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\triangles.h
+
+1036059188 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\triangle_strip.h
+
+1036059212 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\triangle_fan.h
+
+1329330333 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\global.cpp
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+	"global.h"
+
+1329340124 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\axes.cpp
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+	"global.h"
+
+1259230023 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\line_loop.cpp
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+	"line_loop.h"
+
+1259230023 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\line_strip.cpp
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+	"Line_strip.h"
+
+1259230023 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\lines.cpp
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+	"Lines.h"
+
+1329338990 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\points.cpp
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+	"global.h"
+
+1259230023 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\polygone.cpp
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+	"polygone.h"
+
+1259230023 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\quad_strip.cpp
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+	"quad_strip.h"
+
+1259230023 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\quads.cpp
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+	"quads.h"
+
+1259230023 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\triangle_fan.cpp
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+	"triangle_fan.h"
+
+1259230023 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\triangle_strip.cpp
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+	"triangle_strip.h"
+
+1259230023 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\triangles.cpp
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+	"Triangles.h"
+
+1329393585 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\geomglut.cpp
+	"GeomGlut.h"
+	"main.h"
+	<iostream>
+
+1329393585 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\geomglut.h
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+
+1329388423 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\main.cpp
+	<math.h>
+	"main.h"
+	"GeomGlut.h"
+
+1329385990 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\main.h
+
+1329404720 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\_labocanevas\geomglut.cpp
+	"GeomGlut.h"
+	"main.h"
+	<iostream>
+
+1329405097 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\_labocanevas\geomglut.h
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+
+1329385990 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\_labocanevas\main.h
+
+1329405482 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\_labocanevas\main.cpp
+	<math.h>
+	"main.h"
+	"GeomGlut.h"
+
+1329405513 source:d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\labo01\geomglut.cpp
+	"GeomGlut.h"
+	"main.h"
+	<iostream>
+
+1329405097 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\labo01\geomglut.h
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+
+1329385990 d:\_lectures\2012_springsemester_he-arc\algorithmesnumeriques\codessource_pourcoursalgonum\labo01\main.h
+
+1330166193 source:c:\users\tibor udvari\desktop\stuff\main.cpp
+	<math.h>
+	"main.h"
+	"GeomGlut.h"
+
+1329385990 c:\users\tibor udvari\desktop\stuff\main.h
+
+1329405097 c:\users\tibor udvari\desktop\stuff\geomglut.h
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+
+1329405513 source:c:\users\tibor udvari\desktop\stuff\geomglut.cpp
+	"GeomGlut.h"
+	"main.h"
+	<iostream>
+
+1330166193 source:d:\exercices ecole\algorithmesnumeriques\labotemplate\main.cpp
+	<math.h>
+	"main.h"
+	"GeomGlut.h"
+
+1329385990 d:\exercices ecole\algorithmesnumeriques\labotemplate\main.h
+
+1329405097 d:\exercices ecole\algorithmesnumeriques\labotemplate\geomglut.h
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+
+1329405513 source:d:\exercices ecole\algorithmesnumeriques\labotemplate\geomglut.cpp
+	"GeomGlut.h"
+	"main.h"
+	<iostream>
+
+1331672971 source:d:\exercices ecole\design patterns\labo1 bridge\bridge\circle.cpp
+	"Circle.h"
+
+1331671160 d:\exercices ecole\design patterns\labo1 bridge\bridge\circle.h
+	<cmath>
+	"Shape.h"
+	"V1Drawing.h"
+	"V2Drawing.h"
+
+1331673629 d:\exercices ecole\design patterns\labo1 bridge\bridge\shape.h
+	<iostream>
+	"AbstractDrawingStrategy.h"
+
+1331671169 d:\exercices ecole\design patterns\labo1 bridge\bridge\abstractdrawingstrategy.h
+	<iostream>
+
+1331671112 d:\exercices ecole\design patterns\labo1 bridge\bridge\v1drawing.h
+	"AbstractDrawingStrategy.h"
+	"GeomGlut.h"
+
+1331672688 d:\exercices ecole\design patterns\labo1 bridge\bridge\geomglut.h
+	<windows.h>
+	<GLUT/GLUT.h>
+	<GL/glut.h>
+
+1331671640 d:\exercices ecole\design patterns\labo1 bridge\bridge\v2drawing.h
+	"AbstractDrawingStrategy.h"
+	"GeomGlut.h"
+
+1331672755 source:d:\exercices ecole\design patterns\labo1 bridge\bridge\geomglut.cpp
+	"GeomGlut.h"
+	"main.h"
+	<iostream>
+
+1331666467 d:\exercices ecole\design patterns\labo1 bridge\bridge\main.h
+
+1331671209 source:d:\exercices ecole\design patterns\labo1 bridge\bridge\rectangle.cpp
+	"Rectangle.h"
+
+1331671128 d:\exercices ecole\design patterns\labo1 bridge\bridge\rectangle.h
+	"Shape.h"
+	"V2Drawing.h"
+
+1331673543 source:d:\exercices ecole\design patterns\labo1 bridge\bridge\shape.cpp
+	"Shape.h"
+
+1331672906 source:d:\exercices ecole\design patterns\labo1 bridge\bridge\main.cpp
+	<math.h>
+	"main.h"
+	"GeomGlut.h"
+	"Rectangle.h"
+	"Circle.h"
+	"Triangle.h"
+	"Carree.h"
+
+1331671073 d:\exercices ecole\design patterns\labo1 bridge\bridge\triangle.h
+	"Shape.h"
+	"V2Drawing.h"
+
+1331671083 d:\exercices ecole\design patterns\labo1 bridge\bridge\carree.h
+	"Shape.h"
+	"V2Drawing.h"
+
+1331671173 source:d:\exercices ecole\design patterns\labo1 bridge\bridge\triangle.cpp
+	"Triangle.h"
+
+1331671227 source:d:\exercices ecole\design patterns\labo1 bridge\bridge\abstractdrawingstrategy.cpp
+	"AbstractDrawingStrategy.h"
+
+1331672934 source:d:\exercices ecole\design patterns\labo1 bridge\bridge\v1drawing.cpp
+	"V1Drawing.h"
+
+1331672952 source:d:\exercices ecole\design patterns\labo1 bridge\bridge\v2drawing.cpp
+	"V2Drawing.h"
+
+1331671187 source:d:\exercices ecole\design patterns\labo1 bridge\bridge\carree.cpp
+	"Carree.h"
+
