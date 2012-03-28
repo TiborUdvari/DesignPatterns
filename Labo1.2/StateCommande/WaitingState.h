@@ -15,8 +15,8 @@ class WaitingState: public State
 public:
 	WaitingState();
 	virtual ~WaitingState();
-protected:
-	void goNext(Order*& order);
+	void goNext(Order* order);
+
 };
 
 #endif /* WAITINGSTATE_H_ */

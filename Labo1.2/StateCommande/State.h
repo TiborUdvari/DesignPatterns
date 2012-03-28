@@ -8,17 +8,21 @@
 #ifndef STATE_H_
 #define STATE_H_
 
+
 class Order;
 
+#include <iostream>
 
+using namespace std;
 
 class State
 {
 public:
 	State();
 	virtual ~State();
+	virtual void goNext(Order* order);
 protected:
-	virtual void goNext(Order*& order);
+
 };
 
 #endif /* STATE_H_ */

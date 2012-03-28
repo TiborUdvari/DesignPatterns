@@ -15,8 +15,8 @@ class SentState: public State
 public:
 	SentState();
 	virtual ~SentState();
-protected:
-	void goNext(Order*& order);
+	void goNext(Order* order);
+
 };
 
 #endif /* SENTSTATE_H_ */

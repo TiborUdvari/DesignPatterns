@@ -5,22 +5,20 @@
  *      Author: Tibor Udvari
  */
 
-
-#include "State.h"
 #include "Order.h"
-#include "WaitingState.h"
+#include "State.h"
 
 State::State()
 {
+
 }
 
 State::~State()
 {
 }
 
-void State::goNext(Order*& order)
+void State::goNext(Order* order)
 {
-
 	cout << "Going to waiting state" << endl;
 
 }

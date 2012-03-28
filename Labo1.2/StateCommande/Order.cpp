@@ -5,13 +5,12 @@
  *      Author: Tibor Udvari
  */
 
+#include "WaitingState.h"
 #include "Order.h"
-#include "State.h"
 
 Order::Order()
 {
-	state = new State();
-
+	currentState = new WaitingState();
 }
 
 Order::~Order()
@@ -21,9 +20,17 @@ Order::~Order()
 
 void Order::treat()
 {
-	Order* test = this; // TODO wtf
-	state -> goNext(test); // Going to initial state
+	//Order* test = this; // TODO wtf
+	currentState -> goNext(this); // Going to initial state
+	//currentState -> goNext(this);
 }
+
+void Order::setCurrentState(State* s)
+{
+	currentState = s;
+}
+
+
 
 
 

@@ -15,8 +15,9 @@ class PaidState: public State
 public:
 	PaidState();
 	virtual ~PaidState();
+	void goNext(Order* order);
 protected:
-	void goNext(Order*& order);
+
 };
 
 #endif /* PAIDSTATE_H_ */
