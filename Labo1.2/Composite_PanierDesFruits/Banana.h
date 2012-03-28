@@ -16,7 +16,6 @@ public:
 	Banana();
 	virtual ~Banana();
 	float getPrice();
-
 };
 
 #endif /* BANANA_H_ */
