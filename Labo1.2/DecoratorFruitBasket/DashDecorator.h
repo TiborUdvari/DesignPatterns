@@ -1,9 +1,8 @@
-/*
- * DashDecorator.h
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
+/******************************************************************************************
+*
+* 	 	 DashDecorator Class - A concrete decorator class of the decorator pattern
+*
+ ******************************************************************************************/
 
 #ifndef DASHDECORATOR_H_
 #define DASHDECORATOR_H_

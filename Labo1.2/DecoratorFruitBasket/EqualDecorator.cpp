@@ -1,10 +1,3 @@
-/*
- * EqualDecorator.cpp
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
-
 #include "EqualDecorator.h"
 
 EqualDecorator::EqualDecorator()

@@ -1,11 +1,14 @@
 /********************************************************************************************
-* 	 	 	 	 	 	 	 	 	 	 Tibor Udvari
+* 	 	 	 	 	 	 	 	 	 	   Equipe 3
+* 	 	 	 	 	 	 	 Tibor Udvari, Laurent Novac, Jacot Nils
 * 	 	 	 	 	 	 	 	 Haute Ecole Arc Ingénierie
 * 	 	 	 	 	 	 	 	 Année académique 2011-2012
 * 	 	 	 	 	 	 	 	 	 	 28 mars 2012
-* 	 	 	 	 	 	  		Cours de'algorithmes numeriques
+* 	 	 	 	 	 	  		   Labo 1.2 Design Patterns
+* 	 	 	 	 	 	  		      Decorator pattern
+*
 *	Description:
-*   description
+*   Decorator pattern implementation
 ********************************************************************************************/
 #include <iostream>
 #include "FruitBasket.h"
@@ -47,14 +50,17 @@ int main()
 	fruitDecorator->print();
 	delete fruitDecorator;
 
-	// delete ordre inverse de création, null pointers in Basket sinon
+
+	/******************************************************************************************
+	 * 	 	 	 	 	 	 	 	 	 	Cleanup
+	 ******************************************************************************************/
+	// delete ordre inverse de création, null pointers in Basket sinons
 	delete fruitBasket;
 	delete banana1;
 	delete banana2;
 	delete banana3;
 	// si on redefini pas on arrive pas au affichage
 
-	//TODO effacer commentaires inutiles
-	//cout << "Total fruit price in basket : " << fruitBasket->getPrice() << endl;
+	//TODO effacer commentaires inutiles comme ceci
 	return 0;
 }

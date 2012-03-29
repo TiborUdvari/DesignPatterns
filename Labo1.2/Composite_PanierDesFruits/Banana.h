@@ -1,9 +1,8 @@
-/*
- * Banana.h
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
+/******************************************************************************************
+*
+* 	 	 	 	 	 	 Banana Class - A Leaf in the composite pattern
+*
+ ******************************************************************************************/
 
 #ifndef BANANA_H_
 #define BANANA_H_

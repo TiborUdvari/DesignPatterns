@@ -1,9 +1,8 @@
-/*
- * StarDecorator.h
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
+/******************************************************************************************
+*
+* 	 	   StarDecorator Class - A concrete decorator class of the decorator pattern
+*
+ ******************************************************************************************/
 
 #ifndef STARDECORATOR_H_
 #define STARDECORATOR_H_

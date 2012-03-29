@@ -1,9 +1,8 @@
-/*
- * PanierDeFruit.h
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
+/******************************************************************************************
+*
+* 	 	 	 	 	 	 FruitBasket Class - The composite in the composite pattern
+*
+ ******************************************************************************************/
 
 #ifndef FRUITBASKET_H_
 #define FRUITBASKET_H_

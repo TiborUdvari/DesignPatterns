@@ -1,9 +1,8 @@
-/*
- * FruitDecorator.h
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
+/******************************************************************************************
+*
+* 	 	 	 FruitDecorator Class - Abstract Decorator Class of Decorator Pattern
+*
+ ******************************************************************************************/
 
 #ifndef FRUITDECORATOR_H_
 #define FRUITDECORATOR_H_

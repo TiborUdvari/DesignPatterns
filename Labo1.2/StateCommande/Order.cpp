@@ -8,9 +8,12 @@
 #include "WaitingState.h"
 #include "Order.h"
 
+State** Order::arrayStates = new State*[3];
+unsigned int Order::numberOfStates = 3;
+
 Order::Order()
 {
-	currentState = new WaitingState();
+	currentState = WaitingState::getInstance();
 }
 
 Order::~Order()
@@ -30,7 +33,16 @@ void Order::setCurrentState(State* s)
 	currentState = s;
 }
 
+void Order::cleanup()
+{
+	for (unsigned int i = numberOfStates; i < 3; i++)
+	{
+		if(arrayStates[i] != NULL)
+		{
+			delete arrayStates[i];
+		}
+	}
 
-
+}
 
 

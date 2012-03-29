@@ -17,11 +17,6 @@ State::~State()
 {
 }
 
-void State::goNext(Order* order)
-{
-	cout << "Going to waiting state" << endl;
-
-}
 
 
 

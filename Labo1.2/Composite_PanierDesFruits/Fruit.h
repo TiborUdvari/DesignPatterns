@@ -1,9 +1,9 @@
-/*
- * Fruit.h
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
+/******************************************************************************************
+*
+* 	 	 	 	 	 	 Fruit Class - A Component in the composite pattern
+* 	 	 	 	 	 	 	It is abstract because of the getPrice method
+*
+ ******************************************************************************************/
 
 #ifndef FRUIT_H_
 #define FRUIT_H_

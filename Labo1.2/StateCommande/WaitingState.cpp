@@ -8,10 +8,11 @@
 #include "Order.h"
 #include "PaidState.h"
 
+WaitingState* WaitingState::ptSingleton = NULL;
+
 WaitingState::WaitingState()
 {
-	// TODO Auto-generated constructor stub
-
+	Order::arrayStates[0] = this;
 }
 
 WaitingState::~WaitingState()
@@ -21,7 +22,15 @@ WaitingState::~WaitingState()
 
 void WaitingState::goNext(Order * order)
 {
-	order->setCurrentState(new PaidState());
-	delete this;
+	order->setCurrentState(PaidState::getInstance());
+}
+
+WaitingState *WaitingState::getInstance()
+{
+	if (ptSingleton == NULL)
+	{
+		ptSingleton = new WaitingState();
+	}
+	return ptSingleton;
 }
 

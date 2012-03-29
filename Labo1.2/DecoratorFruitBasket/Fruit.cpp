@@ -1,9 +1,3 @@
-/*
- * Fruit.cpp
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
 #include "Fruit.h"
 
 Fruit::Fruit()

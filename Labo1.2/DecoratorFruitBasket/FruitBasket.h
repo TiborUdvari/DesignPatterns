@@ -1,10 +1,3 @@
-/*
- * PanierDeFruit.h
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
-
 #ifndef FRUITBASKET_H_
 #define FRUITBASKET_H_
 

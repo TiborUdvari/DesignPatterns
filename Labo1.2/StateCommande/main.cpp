@@ -8,6 +8,6 @@ int main()
 	order->treat();
 	order->treat();
 	order->treat();
-	//order->currentState->goNext(order);
+	Order::cleanup();
 	return 0;
 }

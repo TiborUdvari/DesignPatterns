@@ -20,8 +20,7 @@ class State
 public:
 	State();
 	virtual ~State();
-	virtual void goNext(Order* order);
-protected:
+	virtual void goNext(Order* order) = 0;
 
 };
 

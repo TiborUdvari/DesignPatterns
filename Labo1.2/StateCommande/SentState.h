@@ -13,10 +13,12 @@
 class SentState: public State
 {
 public:
-	SentState();
 	virtual ~SentState();
 	void goNext(Order* order);
-
+	static SentState* getInstance();
+private:
+	SentState();
+	static SentState* ptSingleton;
 };
 
 #endif /* SENTSTATE_H_ */

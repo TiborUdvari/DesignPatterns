@@ -1,11 +1,14 @@
 /********************************************************************************************
-* 	 	 	 	 	 	 	 	 	 	 Tibor Udvari
+* 	 	 	 	 	 	 	 	 	 	   Equipe 3
+* 	 	 	 	 	 	 	 Tibor Udvari, Laurent Novac, Jacot Nils
 * 	 	 	 	 	 	 	 	 Haute Ecole Arc Ingénierie
 * 	 	 	 	 	 	 	 	 Année académique 2011-2012
 * 	 	 	 	 	 	 	 	 	 	 28 mars 2012
-* 	 	 	 	 	 	  		Cours de'algorithmes numeriques
+* 	 	 	 	 	 	  		   Labo 1.2 Design Patterns
+* 	 	 	 	 	 	  		       Pattern Composite
+*
 *	Description:
-*   description
+*   Composite pattern implementation
 ********************************************************************************************/
 #include <iostream>
 #include "FruitBasket.h"
@@ -39,12 +42,16 @@ int main()
 
 	cout << "Total fruit price in basket : " << fruitBasket->getPrice() << endl;
 
+	/******************************************************************************************
+	 * 	 	 	 	 	 	 	 	 	 	Cleanup
+	 ******************************************************************************************/
+	delete fruitBasket;
 	delete apple1;
 	delete orange1;
 	delete banana3;
 	delete banana2;
 	delete banana1;
-	delete fruitBasket;
+
 
 	return 0;
 }

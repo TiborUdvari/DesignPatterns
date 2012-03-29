@@ -16,8 +16,6 @@ class State;
 
 using namespace std;
 
-
-
 class Order
 {
 public:
@@ -25,8 +23,11 @@ public:
 	virtual ~Order();
 	void treat();
 	void setCurrentState(State* s);
+	static State** arrayStates;
+	static void cleanup(); // cleans the states singletons
 private:
 	State* currentState;
+	static const unsigned int numberOfStates;
 };
 
 #endif /* ORDER_H_ */

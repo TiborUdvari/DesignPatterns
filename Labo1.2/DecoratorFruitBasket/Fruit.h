@@ -1,9 +1,8 @@
-/*
- * Fruit.h
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
+/******************************************************************************************
+*
+* 	 	 		Fruit Class - A concrete component of the decorator pattern
+*
+ ******************************************************************************************/
 
 #ifndef FRUIT_H_
 #define FRUIT_H_

@@ -13,10 +13,12 @@
 class PaidState: public State
 {
 public:
-	PaidState();
 	virtual ~PaidState();
 	void goNext(Order* order);
-protected:
+	static PaidState* getInstance();
+private:
+	PaidState();
+	static PaidState* ptSingleton;
 
 };
 

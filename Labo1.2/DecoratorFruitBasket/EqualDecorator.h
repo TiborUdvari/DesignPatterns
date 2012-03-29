@@ -1,9 +1,8 @@
-/*
- * EqualDecorator.h
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
+/******************************************************************************************
+*
+* 	 	 EqualDecorator Class - A concrete decorator class of the decorator pattern
+*
+ ******************************************************************************************/
 
 #ifndef EQUALDECORATOR_H_
 #define EQUALDECORATOR_H_

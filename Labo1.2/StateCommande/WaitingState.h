@@ -13,10 +13,12 @@
 class WaitingState: public State
 {
 public:
-	WaitingState();
 	virtual ~WaitingState();
 	void goNext(Order* order);
-
+	static WaitingState* getInstance();
+private:
+	WaitingState();
+	static WaitingState* ptSingleton;
 };
 
 #endif /* WAITINGSTATE_H_ */

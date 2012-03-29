@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="All" />
-	<File name="AbstractDrawingStrategy.cpp" open="1" top="0" tabpos="17">
+	<File name="AbstractDrawingStrategy.cpp" open="0" top="0" tabpos="17">
 		<Cursor position="0" topLine="0" />
 	</File>
-	<File name="AbstractDrawingStrategy.h" open="1" top="0" tabpos="10">
+	<File name="AbstractDrawingStrategy.h" open="1" top="0" tabpos="1">
 		<Cursor position="275" topLine="0" />
 	</File>
-	<File name="Circle.cpp" open="1" top="0" tabpos="18">
+	<File name="Circle.cpp" open="0" top="0" tabpos="18">
 		<Cursor position="316" topLine="0" />
 	</File>
-	<File name="Circle.h" open="1" top="0" tabpos="11">
+	<File name="Circle.h" open="0" top="0" tabpos="11">
 		<Cursor position="273" topLine="0" />
 	</File>
-	<File name="GeomGlut.cpp" open="1" top="0" tabpos="19">
+	<File name="GeomGlut.cpp" open="0" top="0" tabpos="19">
 		<Cursor position="915" topLine="9" />
 	</File>
-	<File name="GeomGlut.h" open="1" top="0" tabpos="12">
+	<File name="GeomGlut.h" open="0" top="0" tabpos="12">
 		<Cursor position="196" topLine="0" />
 	</File>
-	<File name="Rectangle.cpp" open="1" top="0" tabpos="5">
+	<File name="Rectangle.cpp" open="0" top="0" tabpos="5">
 		<Cursor position="155" topLine="0" />
 	</File>
-	<File name="Rectangle.h" open="1" top="0" tabpos="4">
+	<File name="Rectangle.h" open="0" top="0" tabpos="4">
 		<Cursor position="100" topLine="0" />
 	</File>
-	<File name="Shape.cpp" open="1" top="0" tabpos="20">
+	<File name="Shape.cpp" open="0" top="0" tabpos="20">
 		<Cursor position="140" topLine="0" />
 	</File>
-	<File name="Shape.h" open="1" top="0" tabpos="13">
+	<File name="Shape.h" open="0" top="0" tabpos="13">
 		<Cursor position="123" topLine="0" />
 	</File>
-	<File name="V1Drawing.cpp" open="1" top="0" tabpos="7">
+	<File name="V1Drawing.cpp" open="0" top="0" tabpos="7">
 		<Cursor position="196" topLine="0" />
 	</File>
-	<File name="V1Drawing.h" open="1" top="0" tabpos="14">
+	<File name="V1Drawing.h" open="0" top="0" tabpos="14">
 		<Cursor position="326" topLine="0" />
 	</File>
-	<File name="V2Drawing.cpp" open="1" top="0" tabpos="8">
+	<File name="V2Drawing.cpp" open="0" top="0" tabpos="8">
 		<Cursor position="94" topLine="0" />
 	</File>
-	<File name="V2Drawing.h" open="1" top="0" tabpos="6">
+	<File name="V2Drawing.h" open="0" top="0" tabpos="6">
 		<Cursor position="206" topLine="0" />
 	</File>
-	<File name="carree.cpp" open="1" top="0" tabpos="3">
+	<File name="carree.cpp" open="0" top="0" tabpos="3">
 		<Cursor position="0" topLine="0" />
 	</File>
-	<File name="carree.h" open="1" top="0" tabpos="2">
+	<File name="carree.h" open="0" top="0" tabpos="2">
 		<Cursor position="94" topLine="0" />
 	</File>
-	<File name="main.cpp" open="1" top="1" tabpos="1">
-		<Cursor position="1599" topLine="45" />
+	<File name="main.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="1599" topLine="43" />
 	</File>
-	<File name="main.h" open="1" top="0" tabpos="9">
+	<File name="main.h" open="0" top="0" tabpos="9">
 		<Cursor position="91" topLine="0" />
 	</File>
-	<File name="triangle.cpp" open="1" top="0" tabpos="16">
+	<File name="triangle.cpp" open="0" top="0" tabpos="16">
 		<Cursor position="0" topLine="0" />
 	</File>
-	<File name="triangle.h" open="1" top="0" tabpos="15">
+	<File name="triangle.h" open="0" top="0" tabpos="15">
 		<Cursor position="98" topLine="0" />
 	</File>
 </CodeBlocks_layout_file>
