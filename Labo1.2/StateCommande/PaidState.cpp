@@ -1,10 +1,3 @@
-/*
- * PaidState.cpp
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
-
 #include "PaidState.h"
 #include "Order.h"
 #include "SentState.h"
@@ -19,7 +12,7 @@ PaidState::PaidState()
 
 PaidState::~PaidState()
 {
-	// TODO Auto-generated destructor stub
+
 }
 
 void PaidState::goNext(Order * order)

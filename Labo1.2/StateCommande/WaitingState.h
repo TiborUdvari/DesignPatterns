@@ -1,10 +1,8 @@
-/*
- * WaitingState.h
+/******************************************************************************************
  *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
-
+ * 	 	 	 	WaitingState Class - One of the concrete states of State Pattern
+ *										First state
+ ******************************************************************************************/
 #ifndef WAITINGSTATE_H_
 #define WAITINGSTATE_H_
 
@@ -14,7 +12,7 @@ class WaitingState: public State
 {
 public:
 	virtual ~WaitingState();
-	void goNext(Order* order);
+	void goNext( Order* order );
 	static WaitingState* getInstance();
 private:
 	WaitingState();

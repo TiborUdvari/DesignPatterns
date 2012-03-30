@@ -1,10 +1,8 @@
-/*
- * SentState.h
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
-
+/******************************************************************************************
+*
+* 	 	 	 	SentState Class - One of the concrete states of State Pattern
+*										Third State
+ ******************************************************************************************/
 #ifndef SENTSTATE_H_
 #define SENTSTATE_H_
 

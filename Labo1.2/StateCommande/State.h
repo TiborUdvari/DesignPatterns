@@ -1,10 +1,8 @@
-/*
- * State.h
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
-
+/******************************************************************************************
+*
+* 	 	 	 	State Class - Generic abstract state class of State Pattern
+*		(we made it abstract because it would make nos sense to just have a general state)
+ ******************************************************************************************/
 #ifndef STATE_H_
 #define STATE_H_
 

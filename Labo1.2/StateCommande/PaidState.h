@@ -1,10 +1,8 @@
-/*
- * PaidState.h
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
-
+/******************************************************************************************
+*
+* 	 	 	 	PaidState Class - One of the concrete states of State Pattern
+*										Second State
+ ******************************************************************************************/
 #ifndef PAIDSTATE_H_
 #define PAIDSTATE_H_
 

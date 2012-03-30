@@ -1,31 +1,28 @@
-/*
- * Order.cpp
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
-
 #include "WaitingState.h"
 #include "Order.h"
 
 State** Order::arrayStates = new State*[3];
 unsigned int Order::numberOfStates = 3;
+static unsigned int Order::numberOfInstances = 0;
 
 Order::Order()
 {
 	currentState = WaitingState::getInstance();
+	numberOfInstances++;
 }
 
 Order::~Order()
 {
-	// TODO Auto-generated destructor stub
+	numberOfInstances--;
+	if (numberOfInstances == 0)
+	{
+		cleanup();
+	}
 }
 
 void Order::treat()
 {
-	//Order* test = this; // TODO wtf
-	currentState -> goNext(this); // Going to initial state
-	//currentState -> goNext(this);
+	currentState -> goNext(this); // goes to next state
 }
 
 void Order::setCurrentState(State* s)

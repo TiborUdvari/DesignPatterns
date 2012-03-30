@@ -1,10 +1,3 @@
-/*
- * FruitBasket.cpp
- *
- *  Created on: 28 mars 2012
- *      Author: Tibor Udvari
- */
-
 #include "FruitBasket.h"
 
 using namespace std;
