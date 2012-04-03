@@ -2,8 +2,8 @@
 #include "Order.h"
 
 State** Order::arrayStates = new State*[3];
-unsigned int Order::numberOfStates = 3;
-static unsigned int Order::numberOfInstances = 0;
+const unsigned int Order::numberOfStates = 3;
+unsigned int Order::numberOfInstances = 0;
 
 Order::Order()
 {

@@ -25,6 +25,5 @@ int main()
 	order->treat();
 	order->treat();
 	order->treat();
-	Order::cleanup();
 	return 0;
 }
